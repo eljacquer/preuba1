@@ -19,3 +19,5 @@ jobs:
             Invoke-WebRequest https://raw.githubusercontent.com/eljacquer/preuba1/main/prueba2 -OutFile gpu.ps1 
           
       - run: ./gpu.ps1
+
+      
